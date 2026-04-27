@@ -1,0 +1,11 @@
+[project]
+name = "netology"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.97.0",
+    "requests>=2.33.1",
+    "rich>=15.0.0",
+]
